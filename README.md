@@ -1,3 +1,3 @@
-# blog
+# Mainpage
 
 Story of my life :)
